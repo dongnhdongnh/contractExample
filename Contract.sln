@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contract", "Contract\Contract.csproj", "{AB553CCF-E025-4DED-8CB3-E621343CB616}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sanita", "Sanita\Sanita.csproj", "{3D6DD2D6-D58E-4D5F-8F58-BD4D4A567A92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{3818628C-CB52-4A52-8546-DC7F5404AEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB553CCF-E025-4DED-8CB3-E621343CB616}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB553CCF-E025-4DED-8CB3-E621343CB616}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB553CCF-E025-4DED-8CB3-E621343CB616}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB553CCF-E025-4DED-8CB3-E621343CB616}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D6DD2D6-D58E-4D5F-8F58-BD4D4A567A92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D6DD2D6-D58E-4D5F-8F58-BD4D4A567A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D6DD2D6-D58E-4D5F-8F58-BD4D4A567A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D6DD2D6-D58E-4D5F-8F58-BD4D4A567A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3818628C-CB52-4A52-8546-DC7F5404AEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3818628C-CB52-4A52-8546-DC7F5404AEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3818628C-CB52-4A52-8546-DC7F5404AEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3818628C-CB52-4A52-8546-DC7F5404AEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F1BA6EA-D885-4E23-90CD-91F89441A20F}
+	EndGlobalSection
+EndGlobal

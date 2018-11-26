@@ -1,0 +1,14 @@
+C:\Users\Fcode\Documents\MyDaico\Contract\Contract\bin\Debug\netcoreapp2.0\Contract.deps.json
+C:\Users\Fcode\Documents\MyDaico\Contract\Contract\bin\Debug\netcoreapp2.0\Contract.runtimeconfig.json
+C:\Users\Fcode\Documents\MyDaico\Contract\Contract\bin\Debug\netcoreapp2.0\Contract.runtimeconfig.dev.json
+C:\Users\Fcode\Documents\MyDaico\Contract\Contract\bin\Debug\netcoreapp2.0\Contract.dll
+C:\Users\Fcode\Documents\MyDaico\Contract\Contract\bin\Debug\netcoreapp2.0\Contract.pdb
+C:\Users\Fcode\Documents\MyDaico\Contract\Contract\bin\Debug\netcoreapp2.0\Sanita.dll
+C:\Users\Fcode\Documents\MyDaico\Contract\Contract\bin\Debug\netcoreapp2.0\Sanita.pdb
+C:\Users\Fcode\Documents\MyDaico\Contract\Contract\obj\Debug\netcoreapp2.0\Contract.csprojResolveAssemblyReference.cache
+C:\Users\Fcode\Documents\MyDaico\Contract\Contract\obj\Debug\netcoreapp2.0\Contract.csproj.CoreCompileInputs.cache
+C:\Users\Fcode\Documents\MyDaico\Contract\Contract\obj\Debug\netcoreapp2.0\Contract.AssemblyInfoInputs.cache
+C:\Users\Fcode\Documents\MyDaico\Contract\Contract\obj\Debug\netcoreapp2.0\Contract.AssemblyInfo.cs
+C:\Users\Fcode\Documents\MyDaico\Contract\Contract\obj\Debug\netcoreapp2.0\Contract.csproj.CopyComplete
+C:\Users\Fcode\Documents\MyDaico\Contract\Contract\obj\Debug\netcoreapp2.0\Contract.dll
+C:\Users\Fcode\Documents\MyDaico\Contract\Contract\obj\Debug\netcoreapp2.0\Contract.pdb

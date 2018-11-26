@@ -1,0 +1,16 @@
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.deps.json
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.json
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\bin\Debug\netcoreapp2.0\ConsoleApp.pdb
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\bin\Debug\netcoreapp2.0\Sanita.dll
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\bin\Debug\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\bin\Debug\netcoreapp2.0\Sanita.pdb
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\bin\Debug\netcoreapp2.0\Newtonsoft.Json.xml
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csprojResolveAssemblyReference.cache
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.csproj.CopyComplete
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.dll
+C:\Users\Fcode\Documents\MyDaico\Contract\ConsoleApp\obj\Debug\netcoreapp2.0\ConsoleApp.pdb
